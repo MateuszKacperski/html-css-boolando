@@ -129,3 +129,32 @@ span{
     right: 10px;
     top:20px;
 }
+
+.card-img-a:hover{
+    content:url(../img/1b.webp);
+}
+
+.card-img-b:hover{
+    content:url(../img/2b.webp);
+}
+
+.card-img-c:hover{
+    content:url(../img/3b.webp);
+}
+
+.card-img-d:hover{
+    content:url(../img/4b.webp);
+}
+
+.card-img-e:hover{
+    content:url(../img/5b.webp);
+}
+
+.card-img-f:hover{
+    content:url(../img/6b.webp);
+}
+
+
+.heart:hover{
+    color:red;
+}

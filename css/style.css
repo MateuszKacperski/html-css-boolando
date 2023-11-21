@@ -17,9 +17,10 @@ a{
     padding:10px;   
 }
 
-.df{
+img{
+    width: 100%;
+    height: auto;
     display: flex;
-    align-items: center;
 }
 
 span{
@@ -61,3 +62,30 @@ span{
     justify-content: space-between;
 }
 
+/* Main */
+
+.countainer{
+    max-width: 1080px;
+    margin:0 auto;
+}
+
+.col{
+    min-height: 200px;
+   
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card{
+    width:350px;
+    padding: 10px;
+}
+
+.card-description{
+    width: 350px;
+    padding: 10px;
+    margin-bottom: 15px;
+}

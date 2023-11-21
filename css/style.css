@@ -82,10 +82,50 @@ span{
 .card{
     width:350px;
     padding: 10px;
+    position:relative;
 }
 
 .card-description{
     width: 350px;
     padding: 10px;
     margin-bottom: 15px;
+}
+
+.price-red{
+    color:red;
+}
+
+.price-through{
+    text-decoration: line-through;
+}
+
+.discount{
+    background-color: red;
+    color:white;
+    position:absolute;
+    bottom: 40px;
+}
+
+.sosteneble{
+    background-color: green;
+    color:white;
+    position: absolute;
+    bottom: 40px;
+    left: 50px;
+}
+
+
+.sosteneble-bordo{
+    background-color: green;
+    color:white;
+    position: absolute;
+    bottom: 40px;
+}
+
+.heart{
+    background-color: white;
+    padding:10px;
+    position:absolute;
+    right: 10px;
+    top:20px;
 }

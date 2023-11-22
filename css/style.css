@@ -38,6 +38,8 @@ span{
     top: 0;
     left: 0;
     right: 0;
+    z-index: 1;
+    box-shadow: 10px 0 15px #808080;
 }
 
 .lista{
